@@ -9,10 +9,17 @@ sudo bundle install
 ./server
 ```
 
-### Mac (guessing not tested)
+### Mac 
 ```
 brew install ruby
+echo 'export
+PATH="/usr/local/opt/ruby/bin:/usr/local/lib/ruby/gems/3.0.0/bin:$PATH"'
+>> ~/.zshrc
+or
+echo 'export PATH="/usr/local/opt/ruby/bin:/usr/local/lib/ruby/gems/3.0.0/bin:$PATH"' >> ~/.bash_profile
+------ this is an important step because OSX comes with its own ruby"
 gem install jekyll bundler
+bundle add webrick --- this is needed because ruby3.0 does not have webrick
 bundle install
 ./server
 ```
