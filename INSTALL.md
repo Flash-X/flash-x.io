@@ -14,7 +14,7 @@ sudo bundle install
 brew install ruby
 -----Depending on whether you are running zsh or bash 
 echo 'export PATH="/usr/local/opt/ruby/bin:/usr/local/lib/ruby/gems/3.0.0/bin:$PATH"' >> ~/.zshrc
-or
+-----or
 echo 'export PATH="/usr/local/opt/ruby/bin:/usr/local/lib/ruby/gems/3.0.0/bin:$PATH"' >> ~/.bash_profile
 ------ this is an important step because OSX comes with its own ruby"
 gem install jekyll bundler
