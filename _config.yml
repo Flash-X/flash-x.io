@@ -9,27 +9,33 @@
 title: Flash-X
 
 # Your name to show in the footer
-author: Anshu Dubey
+author: The Flash-X team
+email: flash-x@lists.cels.anl.gov
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  The Code: "https://github.com/Flash-X/Flash-X"
-  The Council: "council"
-  Documentation: "https://github.com/Flash-X/Flash-X-docs"
+  The Code:
+     - Source: "https://github.com/Flash-X/Flash-X"
+     - Documentation: "https://github.com/Flash-X/Flash-X-docs" 
+  The Council:
+     - Members: "council"
+  Research:
+     - Projects: "Exastar"
+     - Publications: "publications"
 
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/CCN.png"
+#avatar: "/assets/img/CCN.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: false
+#round-avatar: false
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-#title-img: /path/to/image
+title-img: /assets/img/FLASHX_white-bg.png
 
 
 # --- Footer social media links --- #
