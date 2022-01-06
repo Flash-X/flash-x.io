@@ -1,0 +1,32 @@
+
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.custom-column {
+  float: left;
+  width: 50%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.custom-row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 500px) {
+  .custom-column {
+    width: 100%;
+  }
+}
+
+.custom-img-responsive{
+    margin: 0 auto;
+    display: block;
+}
+
+</style>
