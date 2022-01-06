@@ -39,10 +39,10 @@ How to create side-by-side images with the CSS float property. On screens that a
 <p align="center">
  <div class="row">
   <div class="column">
-   <img src="/assets/img/boiling_earth.gif" style="width:100%">
+   <img src="{{site.baseurl | prepend: site.url}}/assets/img/boiling_earth.gif" style="width:100%">
   </div>
   <div class="column">
-   <img src="/assets/img/boiling_lowg.gif" style="width:100%">
+   <img src="{{site.baseurl | prepend: site.url}}/assets/img/boiling_lowg.gif" style="width:100%">
   </div>
  </div>
 </p>
@@ -52,7 +52,7 @@ How to create side-by-side images with the CSS float property. On screens that a
 How to create side-by-side images with the CSS float property. On screens that are 500px wide or less, the images will stack on top of each other instead of next to each other
 
 <p align="center">
- <img src="/assets/img/water_entry.gif" style="width:42%">
+ <img src="{{site.baseurl | prepend: site.url}}/assets/img/water_entry.gif" style="width:42%">
 </p>
 
 <h2>Free Surface Dynamics</h2>
@@ -60,5 +60,5 @@ How to create side-by-side images with the CSS float property. On screens that a
 How to create side-by-side images with the CSS float property. On screens that are 500px wide or less, the images will stack on top of each other instead of next to each other
 
 <p align="center">
- <img src="/assets/img/free_surface.gif" style="width:67%">
+ <img src="{{site.baseurl | prepend: site.url}}/assets/img/free_surface.gif" style="width:67%">
 </p>
