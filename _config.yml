@@ -21,7 +21,8 @@ navbar-links:
   The Council:
      - Members: "council"
   Research:
-     - Projects: "Exastar"
+     - Exastar: "Exastar"
+     - Fluid Dynamics: "Fluids"
      - Publications: "publications"
 
 # --- Logo --- #
@@ -35,7 +36,7 @@ navbar-links:
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-title-img: /assets/img/FLASHX_white-bg.png
+title-img: /assets/img/FLASHX_no-bg.png
 
 
 # --- Footer social media links --- #
