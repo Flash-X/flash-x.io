@@ -4,11 +4,24 @@
   box-sizing: border-box;
 }
 
-.custom-column {
+/* TODO replace custom-boiling, custom-water-entry, and custom-free-surface with generic objects*/
+
+.custom-boiling {
   float: left;
   width: 50%;
   padding: 5px;
 }
+
+.custom-water-entry {
+  margin: 0 auto;
+  width: 43%;
+}
+
+.custom-free-surface {
+  margin: 0 auto;
+  width: 62%;
+}
+
 
 /* Clearfix (clear floats) */
 .custom-row::after {
@@ -19,14 +32,18 @@
 
 /* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
 @media screen and (max-width: 500px) {
-  .custom-column {
+  .custom-boiling {
     width: 100%;
   }
-}
 
-.custom-img-responsive{
-    margin: 0 auto;
-    display: block;
+  .custom-water-entry {
+    width: 100%;
+  }
+
+  .custom-free-surface {
+    width: 100%;
+  }
+
 }
 
 </style>

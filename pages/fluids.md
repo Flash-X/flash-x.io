@@ -10,29 +10,31 @@ Brief background on Computational Fluid Dynamics (CFD) simulations using Flash-X
 
 Details about pool boiling simulations. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
 
-<p align="center">
- <div class="custom-row">
-  <div class="custom-column">
-   <img src="{{site.baseurl | prepend: site.url}}/assets/img/boiling_earth.gif" style="width:100%">
-  </div>
-  <div class="custom-column">
-   <img src="{{site.baseurl | prepend: site.url}}/assets/img/boiling_lowg.gif" style="width:100%">
-  </div>
+<div class="custom-row">
+ <div class="custom-boiling">
+  <img src="{{site.baseurl | prepend: site.url}}/assets/img/boiling_earth.gif" style="width:100%">
  </div>
-</p>
+ <div class="custom-boiling">
+  <img src="{{site.baseurl | prepend: site.url}}/assets/img/boiling_lowg.gif" style="width:100%">
+ </div>
+</div>
 
 <h2>Water Entry of Solids</h2>
 
 Details about sphere falling in water. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
 
-<div class="row">
- <img class="custom-img-responsive" src="{{site.baseurl | prepend: site.url}}/assets/img/water_entry.gif" style="width:42%">
+<div class="custom-row">
+ <div class="custom-water-entry">
+  <img src="{{site.baseurl | prepend: site.url}}/assets/img/water_entry.gif" style="width:100%">
+ </div>
 </div>
 
 <h2>Free Surface Dynamics</h2>
 
 Deatils about free surface dynamics. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
 
-<div class="row">
- <img class="custom-img-responsive" src="{{site.baseurl | prepend: site.url}}/assets/img/free_surface.gif" style="width:67%">
+<div class="custom-row">
+ <div class="custom-free-surface">
+  <img src="{{site.baseurl | prepend: site.url}}/assets/img/free_surface.gif" style="width:100%">
+ </div>
 </div>
