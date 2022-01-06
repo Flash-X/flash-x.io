@@ -4,11 +4,11 @@ title: Fluid Dynamics
 subtitle: Solid-liquid-gas interaction in multiphase flows
 ---
 
-Flash-X is a highly composable multiphysics software that can be used to simulate physical phenomena in several scientific domains. It is derived from FLASH, which has been a community code for several communities over the last 20 years. Flash-X has been fundamentally redesigned to be usable on a variety of heterogeneous platforms. A part of the redesign is a utilizing a newly designed performance portability abstract layer that is langauge agnostic.
+Brief background on Computational Fluid Dynamics (CFD) simulations using Flash-X. Work done in colloboration with George Washington University (GWU). Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
 
 <h2>Pool Boiling</h2>
 
-How to create side-by-side images with the CSS float property. On screens that are 500px wide or less, the images will stack on top of each other instead of next to each other
+Details about pool boiling simulations. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
 
 <p align="center">
  <div class="custom-row">
@@ -23,7 +23,7 @@ How to create side-by-side images with the CSS float property. On screens that a
 
 <h2>Water Entry of Solids</h2>
 
-How to create side-by-side images with the CSS float property. On screens that are 500px wide or less, the images will stack on top of each other instead of next to each other
+Details about sphere falling in water. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
 
 <div class="row">
  <img class="custom-img-responsive" src="{{site.baseurl | prepend: site.url}}/assets/img/water_entry.gif" style="width:42%">
@@ -31,7 +31,7 @@ How to create side-by-side images with the CSS float property. On screens that a
 
 <h2>Free Surface Dynamics</h2>
 
-How to create side-by-side images with the CSS float property. On screens that are 500px wide or less, the images will stack on top of each other instead of next to each other
+Deatils about free surface dynamics. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
 
 <div class="row">
  <img class="custom-img-responsive" src="{{site.baseurl | prepend: site.url}}/assets/img/free_surface.gif" style="width:67%">
