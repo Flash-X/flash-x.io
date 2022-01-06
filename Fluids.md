@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Fluid Dynamics
-subtitle: Multiphase and phase change flows
+subtitle: Solid-liquid-gas interaction in multiphase flows
 ---
 
 <style>
@@ -34,20 +34,31 @@ Flash-X is a highly composable multiphysics software that can be used to simulat
 
 <h2>Pool Boiling</h2>
 
-<p>How to create side-by-side images with the CSS float property. On screens that are 500px wide or less, the images will stack on top of each other instead of next to each other:</p>
-<p>Resize the browser window to see the effect.</p>
+How to create side-by-side images with the CSS float property. On screens that are 500px wide or less, the images will stack on top of each other instead of next to each other
 
 <p align="center">
  <div class="row">
   <div class="column">
-   <img src="/assets/img/boiling_earth.gif" src="/assets/img/boiling_earth.gif" style="width:100%">
+   <img src="/assets/img/boiling_earth.gif" style="width:100%">
   </div>
   <div class="column">
-   <img src="/assets/img/boiling_earth.gif" src="/assets/img/boiling_lowg.gif" style="width:100%">
+   <img src="/assets/img/boiling_lowg.gif" style="width:100%">
   </div>
  </div>
 </p>
 
 <h2>Water Entry of Solids</h2>
 
+How to create side-by-side images with the CSS float property. On screens that are 500px wide or less, the images will stack on top of each other instead of next to each other
+
+<p align="center">
+ <img src="/assets/img/water_entry.gif" style="width:42%">
+</p>
+
 <h2>Free Surface Dynamics</h2>
+
+How to create side-by-side images with the CSS float property. On screens that are 500px wide or less, the images will stack on top of each other instead of next to each other
+
+<p align="center">
+ <img src="/assets/img/free_surface.gif" style="width:67%">
+</p>
