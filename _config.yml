@@ -19,11 +19,11 @@ navbar-links:
      - Source: "https://github.com/Flash-X/Flash-X"
      - Documentation: "https://github.com/Flash-X/Flash-X-docs" 
   The Council:
-     - Members: "council"
+     - Members: "pages/council"
   Research:
-     - Exastar: "Exastar"
-     - Fluid Dynamics: "Fluids"
-     - Publications: "publications"
+     - Exastar: "pages/exastar"
+     - Fluid Dynamics: "pages/fluids"
+     - Publications: "pages/publications"
 
 # --- Logo --- #
 
@@ -251,6 +251,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
+remove-ads: true
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
 
