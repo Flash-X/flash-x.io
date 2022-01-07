@@ -4,11 +4,11 @@ title: Fluid Dynamics
 subtitle: Solid-liquid-gas interaction in multiphase flows
 ---
 
-Brief background on Computational Fluid Dynamics (CFD) simulations using Flash-X. Work done in colloboration with George Washington University (GWU). Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+Brief background on Computational Fluid Dynamics (CFD) simulations using Flash-X. Work done in colloboration with George Washington University (GWU). 
 
 <h2>Pool Boiling</h2>
 
-Details about pool boiling simulations. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+High-fidelity simulations of gravity effects on pool boiling. Work done under NASA grant NNX16AQ77G.
 
 <div class="custom-row">
  <div class="custom-boiling">
@@ -21,7 +21,7 @@ Details about pool boiling simulations. Pellentesque habitant morbi tristique se
 
 <h2>Water Entry of Solids</h2>
 
-Details about sphere falling in water. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+Water entry of a sphere to demonstrate numerical capability to handle interaction between solid, liquid, and gas. The solid sphere disrupts the free surface and create an air cavity.
 
 <div class="custom-row">
  <div class="custom-water-entry">
@@ -31,7 +31,7 @@ Details about sphere falling in water. Pellentesque habitant morbi tristique sen
 
 <h2>Free Surface Dynamics</h2>
 
-Deatils about free surface dynamics. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+Controlled disturbance of air-water free surface using an osciallting solid ring. 
 
 <div class="custom-row">
  <div class="custom-free-surface">
