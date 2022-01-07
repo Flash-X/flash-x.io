@@ -8,7 +8,7 @@ Brief background on Computational Fluid Dynamics (CFD) simulations using Flash-X
 
 <h2>Pool Boiling</h2>
 
-High-fidelity simulations of gravity effects on pool boiling. Work done under NASA grant NNX16AQ77G.
+High-fidelity simulations of gravity effects on pool boiling.
 
 <div class="custom-row">
  <div class="custom-boiling">
