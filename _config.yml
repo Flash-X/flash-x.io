@@ -19,10 +19,11 @@ navbar-links:
      - Source: "https://github.com/Flash-X/Flash-X"
      - Documentation: "https://github.com/Flash-X/Flash-X-docs" 
   The Council:
-     - Members: "council"
+     - Members: "pages/council"
   Research:
-     - Projects: "Exastar"
-     - Publications: "publications"
+     - Exastar: "pages/exastar"
+     - Fluid Dynamics: "pages/fluids"
+     - Publications: "pages/publications"
 
 # --- Logo --- #
 
@@ -35,7 +36,7 @@ navbar-links:
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-title-img: /assets/img/FLASHX_white-bg.png
+title-img: /assets/img/FLASHX_no-bg.png
 
 
 # --- Footer social media links --- #
@@ -250,6 +251,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
+remove-ads: true
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
 
