@@ -2,9 +2,9 @@
 layout: post
 title: About the Code
 subtitle: Capabilities and Features
-cover-img: /assets/img/CCN.jpg
-thumbnail-img: /assets/img/CCN.png
-share-img: /assets/img/CCN.jpg
+cover-img: /assets/img/d96_3d3d_after.jpg
+thumbnail-img: /assets/img/d96_3d3d_after.jpg
+share-img: /assets/img/d96_3d3d_after.jpg
 tags: [books, test]
 ---
 
