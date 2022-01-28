@@ -17,11 +17,11 @@ email: flash-x@lists.cels.anl.gov
 navbar-links:
   The Code:
      - Source: "https://github.com/Flash-X/Flash-X"
-     - Documentation: "https://github.com/Flash-X/Flash-X-docs/docs/build/html" 
+     - Documentation: "https://github.com/Flash-X/Flash-X-docs/docs/build/html/" 
   The Council:
      - Members: "pages/council"
   Research:
-     - Exastar: "pages/exastar"
+     - Exastar: "https://www.exascaleproject.org/research-project/exastar/"
      - Fluid Dynamics: "pages/fluids"
      - Publications: "pages/publications"
 
