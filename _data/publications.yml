@@ -1,13 +1,338 @@
 # Add publications here
 #
-- title: An Investigation of the Gravity Effects on Pool Boiling Heat Transfer via High-Fidelity Simulations
-  authors: Akash Dhruv, Elias Balaras, Amir Riaz, Jungho Kim
-  year: 2021
-  journal: International Journal of Heat and Mass Transfer
-  url: https://www.sciencedirect.com/science/article/pii/S0017931021009315?dgcid=author#!
+- author:
+  - name: Dhruv, Akash
+  - name: Balaras, Elias
+  - name: Riaz, Amir
+  - name: Kim, Jungho
+  collection: papers
+  journal:
+    name: International Journal of Heat and Mass Transfer
+  institution: The George Washington University (GWU), University of Maryland (UMD)
+  title: 'An Investigation of the Gravity Effects on Pool Boiling Heat Transfer via High-Fidelity Simulations'
+  type: article
+  year: '2021'
 
-- title: A Formulation for High-Fidelity Simulations of Pool Boiling in Low Gravity
-  authors: Akash Dhruv, Elias Balaras, Amir Riaz, Jungho Kim
-  year: 2019
-  journal: International Journal of Multiphase Flow
-  url: https://www.sciencedirect.com/science/article/pii/S030193221930165X
+- author:
+  - name: Dhruv, Akash
+  - name: Balaras, Elias
+  - name: Riaz, Amir
+  - name: Kim, Jungho
+  collection: papers
+  journal:
+    name: International Journal of Multiphase Flow
+  institution: The George Washington University (GWU), University of Maryland (UMD)
+  title: 'A Formulation for High-Fidelity Simulations of Pool Boiling in Low Gravity'
+  type: article
+  year: '2019'
+
+- author:
+  - name: Dubey, Anshu
+  citekey: dubey2021insights
+  collection: papers
+  id: dubey2021insights
+  journal:
+    name: Computing in Science & Engineering
+    number: '3'
+    pages: 92--95
+    volume: '23'
+  title: Insights From the Software Design of a Multiphysics Multicomponent Scientific
+    Code
+  type: article
+  year: '2021'
+
+- author:
+  - name: Rudi, Johann
+  - name: O'Neal, Jared
+  - name: Wahib, Mohamed
+  - name: Dubey, Anshu
+  citekey: rudi2021codeflow
+  collection: papers
+  id: rudi2021codeflow
+  institution: Argonne National Lab.(ANL), Argonne, IL (United States)
+  title: 'CodeFlow: A Code Generation System for Flash-X Orchestration Runtime'
+  type: techreport
+  year: '2021'
+
+- author:
+  - name: Harris, J Austin
+  - name: Chu, Ran
+  - name: Couch, Sean M
+  - name: Dubey, Anshu
+  - name: Endeve, Eirik
+  - name: Georgiadou, Antigoni
+  - name: Jain, Rajeev
+  - name: Kasen, Daniel
+  - name: Laiu, M Paul
+  - name: Messer, OE B
+  - name: 'others, '
+  citekey: harris2021exascale
+  collection: papers
+  id: harris2021exascale
+  title: 'Exascale models of stellar explosions: Quintessential multi-physics simulation'
+  type: article
+  year: '2021'
+
+- author:
+  - name: Couch, Sean M
+  - name: Carlson, Jared
+  - name: Pajkos, Michael
+  - name: "O\u2019Shea, Brian W"
+  - name: Dubey, Anshu
+  - name: Klosterman, Tom
+  citekey: couch2021towards
+  collection: papers
+  id: couch2021towards
+  journal:
+    name: Parallel Computing
+    pages: '102830'
+    volume: '108'
+  title: Towards performance portability in the Spark astrophysical magnetohydrodynamics
+    solver in the Flash-X simulation framework
+  type: article
+  year: '2021'
+
+- author:
+  - name: Dubey, Anshu
+  - name: Berzins, Martin
+  - name: Burstedde, Carsten
+  - name: Norman, Michael L
+  - name: Unat, Didem
+  - name: Wahib, Mohammed
+  citekey: dubey2021structured
+  collection: papers
+  id: dubey2021structured
+  journal:
+    name: Computing in Science & Engineering
+    number: '5'
+    pages: 62--66
+    volume: '23'
+  title: Structured Adaptive Mesh Refinement Adaptations to Retain Performance Portability
+    With Increasing Heterogeneity
+  type: article
+  year: '2021'
+
+- author:
+  - name: O'Neal, Jared
+  - name: Wahib, Mohamed
+  - name: Dubey, Anshu
+  - name: Weide, Klaus
+  - name: Klosterman, Thomas
+  citekey: o2021domaine
+  collection: papers
+  id: o2021domaine
+  institution: Argonne National Lab.(ANL), Argonne, IL (United States)
+  title: Domaine-specific Runtime to Orchestrate Computation on Heterogeneous Platforms
+  type: techreport
+  year: '2021'
+
+- author:
+  - name: Alexander, Francis
+  - name: Almgren, Ann
+  - name: Bell, John
+  - name: Bhattacharjee, Amitava
+  - name: Chen, Jacqueline
+  - name: Colella, Phil
+  - name: Daniel, David
+  - name: DeSlippe, Jack
+  - name: Diachin, Lori
+  - name: Draeger, Erik
+  - name: 'others, '
+  citekey: alexander2020exascale
+  collection: papers
+  id: alexander2020exascale
+  journal:
+    name: Philosophical Transactions of the Royal Society A
+    number: '2166'
+    pages: '20190056'
+    volume: '378'
+  title: 'Exascale applications: skin in the game'
+  type: article
+  year: '2020'
+
+- author:
+  - name: Dubey, Anshu
+  - name: "O\u2019Neal, Jared"
+  - name: Weide, Klaus
+  - name: Chawdhary, Saurabh
+  citekey: dubey2020distillation
+  collection: papers
+  id: dubey2020distillation
+  journal:
+    name: SN Computer Science
+    number: '4'
+    pages: 1--9
+    volume: '1'
+  title: Distillation of best practices from refactoring flash for exascale
+  type: article
+  year: '2020'
+
+- author:
+  - name: Dubey, Anshu
+  - name: Chawdhary, Saurabh
+  - name: Harris, J Austin
+  - name: Messer, Bronson
+  booktitle: 2019 IEEE International Parallel and Distributed Processing Symposium
+    Workshops (IPDPSW)
+  citekey: dubey2019simulation
+  collection: papers
+  id: dubey2019simulation
+  organization: IEEE
+  pages: 683--688
+  title: Simulation Planning Using Component Based Cost Model
+  type: inproceedings
+  year: '2019'
+
+- author:
+  - name: Dubey, Anshu
+  - name: Tzeferacos, Petros
+  - name: Lamb, Don Q
+  citekey: dubey2019dividends
+  collection: papers
+  id: dubey2019dividends
+  journal:
+    name: The International Journal of High Performance Computing Applications
+    number: '2'
+    pages: 322--331
+    volume: '33'
+  title: 'The dividends of investing in computational software design: A case study'
+  type: article
+  year: '2019'
+
+- author:
+  - name: Jared, O
+  - name: Weide, Klaus
+  - name: Dubey, Anshu
+  - name: 'others, '
+  booktitle: 2018 IEEE 14th International Conference on e-Science (e-Science)
+  citekey: jared2018experience
+  collection: papers
+  id: jared2018experience
+  organization: IEEE
+  pages: 1--6
+  title: 'Experience report: refactoring the mesh interface in FLASH, a multiphysics
+    software'
+  type: inproceedings
+  year: '2018'
+
+- author:
+  - name: Dubey, Anshu
+  - name: Weide, Klaus
+  - name: Lee, Dongwook
+  - name: Bachan, John
+  - name: Daley, Christopher
+  - name: Olofin, Samuel
+  - name: Taylor, Noel
+  - name: Rich, Paul M
+  - name: Reid, Lynn B
+  citekey: dubey2015ongoing
+  collection: papers
+  id: dubey2015ongoing
+  journal:
+    name: 'Software: Practice and Experience'
+    number: '2'
+    pages: 233--244
+    volume: '45'
+  title: 'Ongoing verification of a multiphysics community code: FLASH'
+  type: article
+  year: '2015'
+
+- author:
+  - name: Dubey, Anshu
+  - name: Antypas, Katie
+  - name: Calder, Alan C
+  - name: Daley, Chris
+  - name: Fryxell, Bruce
+  - name: Gallagher, J Brad
+  - name: Lamb, Donald Q
+  - name: Lee, Dongwook
+  - name: Olson, Kevin
+  - name: Reid, Lynn B
+  - name: 'others, '
+  citekey: dubey2014evolution
+  collection: papers
+  id: dubey2014evolution
+  journal:
+    name: The International journal of high performance computing applications
+    number: '2'
+    pages: 225--237
+    volume: '28'
+  title: Evolution of FLASH, a multi-physics scientific simulation code for high-performance
+    computing
+  type: article
+  year: '2014'
+
+- author:
+  - name: Dubey, Anshu
+  - name: Daley, Cristopher
+  - name: ZuHone, J
+  - name: Ricker, Paul M
+  - name: Weide, Klaus
+  - name: Graziani, Carlo
+  citekey: dubey2012imposing
+  collection: papers
+  id: dubey2012imposing
+  journal:
+    name: The Astrophysical Journal Supplement Series
+    number: '2'
+    pages: '27'
+    volume: '201'
+  title: Imposing a Lagrangian particle framework on an Eulerian hydrodynamics infrastructure
+    in FLASH
+  type: article
+  year: '2012'
+
+- author:
+  - name: Daley, Chris
+  - name: Bachan, John
+  - name: Couch, Sean
+  - name: Dubey, Anshu
+  - name: Fatenejad, Milad
+  - name: Gallagher, Brad
+  - name: Lee, Dongwook
+  - name: Weide, Klaus
+  booktitle: TACC-Intel Highly Parallel Computing Symposium
+  citekey: daley2012adding
+  collection: papers
+  id: daley2012adding
+  title: Adding shared memory parallelism to FLASH for many-core architectures
+  type: inproceedings
+  year: '2012'
+
+- author:
+  - name: Dubey, Anshu
+  - name: Antypas, Katie
+  - name: Ganapathy, Murali K
+  - name: Reid, Lynn B
+  - name: Riley, Katherine
+  - name: Sheeler, Dan
+  - name: Siegel, Andrew
+  - name: Weide, Klaus
+  citekey: dubey2009extensible
+  collection: papers
+  id: dubey2009extensible
+  journal:
+    name: Parallel Computing
+    number: 10-11
+    pages: 512--522
+    volume: '35'
+  title: Extensible component-based architecture for FLASH, a massively parallel,
+    multiphysics simulation code
+  type: article
+  year: '2009'
+
+- author:
+  - name: Dubey, A
+  - name: Reid, LB
+  - name: Fisher, R
+  citekey: dubey2008introduction
+  collection: papers
+  id: dubey2008introduction
+  journal:
+    name: Physica Scripta
+    number: T132
+    pages: '014046'
+    volume: '2008'
+  title: Introduction to FLASH 3.0, with application to supersonic turbulence
+  type: article
+  year: '2008'

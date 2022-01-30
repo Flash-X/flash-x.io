@@ -4,11 +4,11 @@ title: Publications
 ---
 
 <ol type="1">
- {% for pub in site.data.papers %}
+ {% for pub in site.data.publication %}
   <li>
    <div>
    <p>
-    {{pub.title}}, {% for author in pub.author %}{{author.name}}, {% endfor %}, {{pub.year}}, {{pub.journal.name}}
+    {{pub.title}}-{% for author in pub.author %}{{author.name}}-{% endfor %}-{{pub.year}}-{{pub.journal.name}}
    </p>
    </div>
   </li>
