@@ -15,9 +15,13 @@ email: flash-x@lists.cels.anl.gov
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  News and Events:
+     - News: "pages/news"
+     - Events: "pages/events"
   The Code:
-     - Source: "https://github.com/Flash-X/Flash-X"
-     - Documentation: "https://github.com/Flash-X/Flash-X-docs/docs/build/html/index.html" 
+     - Source: "pages/source-code"
+     - Documentation: "pages/documentation" 
+     - Contribute: "pages/contribute"
   The Council:
      - Members: "pages/council"
   Research:
