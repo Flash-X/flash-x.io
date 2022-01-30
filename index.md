@@ -4,13 +4,24 @@ title: Flash-X
 subtitle: A Multiphysics Scientific Software 
 ---
 Flash-X is a highly composable multiphysics software that can be used to simulate physical phenomena in several scientific domains. It is derived from FLASH, which has been a community code for several communities over the last 20 years. Flash-X architecture has been redesigned to be compatible with increasingly more heterogeneous platforms. A part of the redesign is a utilizing a newly designed performance portability abstract layer that is langauge agnostic. 
+
 Flash-X is released under open source Apache 2.0 license. 
 
 
-# Simulations of core collapse supernovae and pool boiling.
 
+<h2>Simulations using Flash-X</h2>
 
-<img src="/assets/img/d96_3d3d_after.jpg" width="450"> <img src="/assets/img/boiling_earth.gif" width="450">
+Core-collapse Supernova and Gravity Effects on Pool Boiling.
+
+<div class="custom-row">
+ <div class="custom-boiling">
+  <img src="{{site.baseurl | prepend: site.url}}/assets/img/d96_3d3d_after.jpg" style="width:100%">
+ </div>
+ <div class="custom-boiling">
+  <img src="{{site.baseurl | prepend: site.url}}/assets/img/boiling_lowg.gif" style="width:100%">
+ </div>
+</div>
+
                                                                   
                                                                   
 # Flash-X Code of Conduct
