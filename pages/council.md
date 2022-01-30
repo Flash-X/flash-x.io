@@ -4,7 +4,7 @@ title: The Flash-X Council
 subtitle: For Code Governance and Sustainment 
 ---
 
-#Council Mission
+# Council Mission
 
 - Shepherd development of the code
 
