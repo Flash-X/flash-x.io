@@ -1,3 +1,4 @@
+---
 layout: page
 title: Flash-X News
 subtitle: 
