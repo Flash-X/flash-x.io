@@ -4,10 +4,28 @@ title: Flash-X Documentation
 subtitle:  
 ---
 
-# [User's guide:](https://flash-x.github.io/Flash-X-docs/#)
+# [User's guide](https://flash-x.github.io/Flash-X-docs/#)
 
-# API
+#API
+Will be coming soon
 
+# Inheritance 
+A child of an included components inherits all
+functions from the parent, except those for which it has its own
+implementation. 
+
+The implementation in the lowest level offspring replaces
+all implementations that came before.
+
+The Config files arbitrate on multiple implementations
+existing at peer level by specifying ``DEFAULT''
+
+An explicit ``include'' for a particular path in a Config file
+causes all function implemented in lowest level directory in the path
+to be selected.
+
+An implementation in the problem specific directory of the Simulation
+unit overrides all implementations elsewhere in the source tree. 
 
 
 # Naming Conventions
@@ -27,23 +45,19 @@ Units
     following convention:
     If there are no implementations of the unit API in any of its child 
     directories, then the current directory name is capilaized, otherwise 
-    it is all smallcase. For example in Grid unit the directory "Paramesh 3" 
-    is the lowest level directory that has API implementations, so it is
-    capitalized. The     directory "paramesh" also has API implementations,
-    but two of its children have more API implementation, so it is all 
-    lowercase.
+    it is all smallcase. 
 
  Organizational directories
     These directory are normal unix directories, used for organizational
     purposes. For example <physics> is an organizational directory
     for all the physics units. All helper and utilities directories are 
-    lowercase too, for example <unitTest> directories in various units.
+    lowercase too.
 
 Unit API functions:
     Unit_routineName is the typical format of API function names.
     The unit name is followed by an underscore. The first word in the 
     remaining part of the name is lowercase and all subsequent words are
-    capitalized. For example, Grid_getPointData, Driver_getDt} etc
+    capitalized. For example, Grid_fillGuardcells, Driver_getDt} etc
 
 Private Unit funtions
     The private functions are named un_routineName, where {un} stands for

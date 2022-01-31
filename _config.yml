@@ -23,7 +23,8 @@ navbar-links:
      - Documentation: "pages/documentation" 
      - Contribute: "pages/contribute"
   The Council:
-     - Members: "pages/council"
+     - Information: "pages/council"
+     - Members: "pages/members"
   Research:
      - Exastar: "https://www.exascaleproject.org/research-project/exastar/"
      - Fluid Dynamics: "pages/fluids"
