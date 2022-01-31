@@ -4,7 +4,7 @@ title: Flash-X Documentation
 subtitle:  
 ---
 
-# [User's guide:](https://flash-x.github.io/Flash-X-docs/docs/)
+# [User's guide:](https://flash-x.github.io/Flash-X-docs/#)
 
 # API
 
