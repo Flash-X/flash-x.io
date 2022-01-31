@@ -367,6 +367,7 @@
     standing mode in a gravitationally stratified solar coronal arcade
   type: article
   year: '2010'
+  
 - author:
   - name: Murawski, K
   - name: Lee, D
@@ -392,6 +393,7 @@
   title: The excitation of 5-min oscillations in the solar corona
   type: article
   year: '2011'
+  
 - author:
   - name: Lee, D
   - name: Xia, G
@@ -413,6 +415,7 @@
     Mesh MHD solver
   type: article
   year: '2011'
+  
 - author:
   - name: Kritsuk, Alexei G
   - name: "Nordlund, \xC5ke"
@@ -436,6 +439,7 @@
   title: Comparing numerical methods for isothermal magnetized supersonic turbulence
   type: article
   year: '2011'
+  
 - author:
   - name: Ruszkowski, Mateusz
   - name: Lee, D
@@ -454,6 +458,7 @@
     thermal conduction
   type: article
   year: '2011'
+  
 - author:
   - name: ZuHone, JA
   - name: Markevitch, M
@@ -469,6 +474,7 @@
   title: Sloshing of the magnetized cool gas in the cores of galaxy clusters
   type: article
   year: '2011'
+  
 - author:
   - name: Murawski, Krzysztof
   - name: Lee, Dongwook
@@ -483,6 +489,7 @@
   title: Godunov-type algorithms for numerical modeling of solar plasma
   type: article
   year: '2012'
+  
 - author:
   - name: Tzeferacos, Petros
   - name: Fatenejad, M
@@ -504,6 +511,7 @@
   title: FLASH magnetohydrodynamic simulations of shock-generated magnetic field experiments
   type: article
   year: '2012'
+  
 - author:
   - name: Scopatz, Anthony
   - name: Fatenejad, Milad
@@ -528,6 +536,7 @@
     cosmological magnetic fields
   type: article
   year: '2013'
+  
 - author:
   - name: Fatenejad, M
   - name: Bell, AR
@@ -551,6 +560,7 @@
   title: Modeling HEDLA magnetic field generation experiments on laser facilities
   type: article
   year: '2013'
+  
 - author:
   - name: Yang, H-YK
   - name: Ruszkowski, M
@@ -569,6 +579,7 @@
     cosmic-ray diffusion'
   type: article
   year: '2012'
+  
 - author:
   - name: Lee, Dongwook
   citekey: lee2013solution
@@ -582,6 +593,7 @@
     three dimensional magnetohydrodynamics
   type: article
   year: '2013'
+  
 - author:
   - name: Ji, Suoqing
   - name: Fisher, Robert T
@@ -605,6 +617,7 @@
     white dwarfs'
   type: article
   year: '2013'
+  
 - author:
   - name: Murawski, K
   - name: Ballai, I
@@ -622,6 +635,7 @@
     and vortices in the solar atmosphere
   type: article
   year: '2013'
+  
 - author:
   - name: ZuHone, JA
   - name: Markevitch, M
@@ -639,6 +653,7 @@
     conduction
   type: article
   year: '2012'
+  
 - author:
   - name: Ruszkowski, M
   - name: "Br\xFCggen, M"
@@ -655,6 +670,7 @@
   title: Impact of magnetic fields on ram pressure stripping in disk galaxies
   type: article
   year: '2014'
+  
 - author:
   - name: Meinecke, Jena
   - name: Doyle, HW
@@ -679,6 +695,7 @@
     waves
   type: article
   year: '2014'
+  
 - author:
   - name: Tzeferacos, Petros
   - name: Fatenejad, Milad
@@ -701,6 +718,7 @@
     fields
   type: article
   year: '2015'
+  
 - author:
   - name: Graziani, Carlo
   - name: Tzeferacos, Petros
@@ -720,6 +738,7 @@
   title: The biermann catastrophe in numerical magnetohydrodynamics
   type: article
   year: '2015'
+  
 - author:
   - name: Meinecke, Jena
   - name: Tzeferacos, Petros
@@ -744,6 +763,7 @@
     and astrophysical plasmas
   type: article
   year: '2015'
+  
 - author:
   - name: Lee, Dongwook
   - name: Faller, Hugues
@@ -758,6 +778,7 @@
   title: The piecewise cubic method (PCM) for computational fluid dynamics
   type: article
   year: '2017'
+  
 - author:
   - name: Manek, Bhishek
   - name: Brummell, Nicholas
