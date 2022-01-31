@@ -15,7 +15,3 @@ the code because we are required to maintain a list of users cloning the code.
 The development and governance of Flash-X is overseen by the Flash-X Council, please click on the Council link 
 to learn about the members and the role of the concil. For details about contributing code please visit the
 Documentation pages on this site.
-layout: home
-title: News
- 
----

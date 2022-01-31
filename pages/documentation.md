@@ -6,7 +6,7 @@ subtitle:
 
 # [User's guide](https://flash-x.github.io/Flash-X-docs/#)
 
-#API
+# API
 Will be coming soon
 
 # Inheritance 
