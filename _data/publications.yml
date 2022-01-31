@@ -336,3 +336,441 @@
   title: Introduction to FLASH 3.0, with application to supersonic turbulence
   type: article
   year: '2008'
+
+- author:
+  - name: Lee, Dongwook
+  - name: Deane, Anil E
+  citekey: lee2009unsplit
+  collection: publications
+  id: lee2009unsplit
+  journal:
+    name: Journal of Computational Physics
+    number: '4'
+    pages: 952--975
+    volume: '228'
+  title: An unsplit staggered mesh scheme for multidimensional magnetohydrodynamics
+  type: article
+  year: '2009'
+- author:
+  - name: Konkol, P
+  - name: Murawski, K
+  - name: Lee, D
+  - name: Weide, K
+  citekey: konkol2010numerical
+  collection: publications
+  id: konkol2010numerical
+  journal:
+    name: Astronomy & Astrophysics
+    pages: A34
+    volume: '521'
+  title: Numerical simulations of the attenuation of the fundamental slow magnetoacoustic
+    standing mode in a gravitationally stratified solar coronal arcade
+  type: article
+  year: '2010'
+- author:
+  - name: Murawski, K
+  - name: Lee, D
+  citekey: murawski2011numerical
+  collection: publications
+  id: murawski2011numerical
+  title: Numerical methods of solving equations of hydrodynamics from perspectives
+    of the code FLASH
+  type: article
+  year: '2011'
+- author:
+  - name: Zaqarashvili, TV
+  - name: Murawski, K
+  - name: Khodachenko, ML
+  - name: Lee, D
+  citekey: zaqarashvili2011excitation
+  collection: publications
+  id: zaqarashvili2011excitation
+  journal:
+    name: Astronomy & Astrophysics
+    pages: A85
+    volume: '529'
+  title: The excitation of 5-min oscillations in the solar corona
+  type: article
+  year: '2011'
+- author:
+  - name: Lee, D
+  - name: Xia, G
+  - name: Daley, C
+  - name: Dubey, A
+  - name: Gopal, S
+  - name: Graziani, C
+  - name: Lamb, D
+  - name: Weide, K
+  citekey: lee2011progress
+  collection: publications
+  id: lee2011progress
+  journal:
+    name: Astrophysics and Space Science
+    number: '1'
+    pages: 157--162
+    volume: '336'
+  title: Progress in development of HEDP capabilities in FLASH's Unsplit Staggered
+    Mesh MHD solver
+  type: article
+  year: '2011'
+- author:
+  - name: Kritsuk, Alexei G
+  - name: "Nordlund, \xC5ke"
+  - name: Collins, David
+  - name: Padoan, Paolo
+  - name: Norman, Michael L
+  - name: Abel, Tom
+  - name: Banerjee, Robi
+  - name: Federrath, Christoph
+  - name: Flock, Mario
+  - name: Lee, Dongwook
+  - name: 'others, '
+  citekey: kritsuk2011comparing
+  collection: publications
+  id: kritsuk2011comparing
+  journal:
+    name: The Astrophysical Journal
+    number: '1'
+    pages: '13'
+    volume: '737'
+  title: Comparing numerical methods for isothermal magnetized supersonic turbulence
+  type: article
+  year: '2011'
+- author:
+  - name: Ruszkowski, Mateusz
+  - name: Lee, D
+  - name: "Br\xFCggen, Marcus"
+  - name: Parrish, I
+  - name: Oh, S Peng
+  citekey: ruszkowski2011cosmological
+  collection: publications
+  id: ruszkowski2011cosmological
+  journal:
+    name: The Astrophysical Journal
+    number: '2'
+    pages: '81'
+    volume: '740'
+  title: Cosmological magnetohydrodynamic simulations of cluster formation with anisotropic
+    thermal conduction
+  type: article
+  year: '2011'
+- author:
+  - name: ZuHone, JA
+  - name: Markevitch, M
+  - name: Lee, D
+  citekey: zuhone2011sloshing
+  collection: publications
+  id: zuhone2011sloshing
+  journal:
+    name: The Astrophysical Journal
+    number: '1'
+    pages: '16'
+    volume: '743'
+  title: Sloshing of the magnetized cool gas in the cores of galaxy clusters
+  type: article
+  year: '2011'
+- author:
+  - name: Murawski, Krzysztof
+  - name: Lee, Dongwook
+  citekey: murawski2012godunov
+  collection: publications
+  id: murawski2012godunov
+  journal:
+    name: Control and Cybernetics
+    number: '1'
+    pages: 35--56
+    volume: '41'
+  title: Godunov-type algorithms for numerical modeling of solar plasma
+  type: article
+  year: '2012'
+- author:
+  - name: Tzeferacos, Petros
+  - name: Fatenejad, M
+  - name: Flocke, N
+  - name: Gregori, G
+  - name: Lamb, DQ
+  - name: Lee, D
+  - name: Meinecke, J
+  - name: Scopatz, A
+  - name: Weide, K
+  citekey: tzeferacos2012flash
+  collection: publications
+  id: tzeferacos2012flash
+  journal:
+    name: High Energy Density Physics
+    number: '4'
+    pages: 322--328
+    volume: '8'
+  title: FLASH magnetohydrodynamic simulations of shock-generated magnetic field experiments
+  type: article
+  year: '2012'
+- author:
+  - name: Scopatz, Anthony
+  - name: Fatenejad, Milad
+  - name: Flocke, Norbert
+  - name: Gregori, Gianluca
+  - name: Koenig, M
+  - name: Lamb, DQ
+  - name: Lee, D
+  - name: Meinecke, J
+  - name: Ravasio, A
+  - name: Tzeferacos, P
+  - name: 'others, '
+  citekey: scopatz2013flash
+  collection: publications
+  id: scopatz2013flash
+  journal:
+    name: High Energy Density Physics
+    number: '1'
+    pages: 75--81
+    volume: '9'
+  title: FLASH hydrodynamic simulations of experiments to explore the generation of
+    cosmological magnetic fields
+  type: article
+  year: '2013'
+- author:
+  - name: Fatenejad, M
+  - name: Bell, AR
+  - name: Benuzzi-Mounaix, A
+  - name: Crowston, R
+  - name: Drake, RP
+  - name: Flocke, N
+  - name: Gregori, G
+  - name: Koenig, M
+  - name: Krauland, C
+  - name: Lamb, D
+  - name: 'others, '
+  citekey: fatenejad2013modeling
+  collection: publications
+  id: fatenejad2013modeling
+  journal:
+    name: High Energy Density Physics
+    number: '1'
+    pages: 172--177
+    volume: '9'
+  title: Modeling HEDLA magnetic field generation experiments on laser facilities
+  type: article
+  year: '2013'
+- author:
+  - name: Yang, H-YK
+  - name: Ruszkowski, M
+  - name: Ricker, PM
+  - name: Zweibel, E
+  - name: Lee, D
+  citekey: yang2012fermi
+  collection: publications
+  id: yang2012fermi
+  journal:
+    name: The Astrophysical Journal
+    number: '2'
+    pages: '185'
+    volume: '761'
+  title: 'The Fermi bubbles: supersonic active galactic nucleus jets with anisotropic
+    cosmic-ray diffusion'
+  type: article
+  year: '2012'
+- author:
+  - name: Lee, Dongwook
+  citekey: lee2013solution
+  collection: publications
+  id: lee2013solution
+  journal:
+    name: Journal of Computational Physics
+    pages: 269--292
+    volume: '243'
+  title: A solution accurate, efficient and stable unsplit staggered mesh scheme for
+    three dimensional magnetohydrodynamics
+  type: article
+  year: '2013'
+- author:
+  - name: Ji, Suoqing
+  - name: Fisher, Robert T
+  - name: "Garc\u0131\u0301a-Berro, Enrique"
+  - name: Tzeferacos, Petros
+  - name: Jordan, George
+  - name: Lee, Dongwook
+  - name: "Lor\xE9n-Aguilar, Pablo"
+  - name: Cremer, Pascal
+  - name: Behrends, Jan
+  citekey: ji2013post
+  collection: publications
+  id: ji2013post
+  journal:
+    name: The Astrophysical Journal
+    number: '2'
+    pages: '136'
+    volume: '773'
+  title: 'The post-merger magnetized evolution of white dwarf binaries: the double-degenerate
+    channel of sub-Chandrasekhar Type Ia supernovae and the formation of magnetized
+    white dwarfs'
+  type: article
+  year: '2013'
+- author:
+  - name: Murawski, K
+  - name: Ballai, I
+  - name: Srivastava, AK
+  - name: Lee, D
+  citekey: murawski2013three
+  collection: publications
+  id: murawski2013three
+  journal:
+    name: Monthly Notices of the Royal Astronomical Society
+    number: '2'
+    pages: 1268--1277
+    volume: '436'
+  title: Three-dimensional numerical simulation of magnetohydrodynamic-gravity waves
+    and vortices in the solar atmosphere
+  type: article
+  year: '2013'
+- author:
+  - name: ZuHone, JA
+  - name: Markevitch, M
+  - name: Ruszkowski, M
+  - name: Lee, D
+  citekey: zuhone2012cold
+  collection: publications
+  id: zuhone2012cold
+  journal:
+    name: The Astrophysical Journal
+    number: '2'
+    pages: '69'
+    volume: '762'
+  title: Cold fronts and gas sloshing in galaxy clusters with anisotropic thermal
+    conduction
+  type: article
+  year: '2012'
+- author:
+  - name: Ruszkowski, M
+  - name: "Br\xFCggen, M"
+  - name: Lee, D
+  - name: Shin, M-S
+  citekey: ruszkowski2014impact
+  collection: publications
+  id: ruszkowski2014impact
+  journal:
+    name: The Astrophysical Journal
+    number: '1'
+    pages: '75'
+    volume: '784'
+  title: Impact of magnetic fields on ram pressure stripping in disk galaxies
+  type: article
+  year: '2014'
+- author:
+  - name: Meinecke, Jena
+  - name: Doyle, HW
+  - name: Miniati, Francesco
+  - name: Bell, Anthony R
+  - name: Bingham, R
+  - name: Crowston, Robert
+  - name: Drake, RP
+  - name: Fatenejad, Milad
+  - name: Koenig, Michel
+  - name: Kuramitsu, Yasuhiro
+  - name: 'others, '
+  citekey: meinecke2014turbulent
+  collection: publications
+  id: meinecke2014turbulent
+  journal:
+    name: Nature Physics
+    number: '7'
+    pages: 520--524
+    volume: '10'
+  title: Turbulent amplification of magnetic fields in laboratory laser-produced shock
+    waves
+  type: article
+  year: '2014'
+- author:
+  - name: Tzeferacos, Petros
+  - name: Fatenejad, Milad
+  - name: Flocke, Norbert
+  - name: Graziani, Carlo
+  - name: Gregori, G
+  - name: Lamb, DQ
+  - name: Lee, D
+  - name: Meinecke, J
+  - name: Scopatz, A
+  - name: Weide, K
+  citekey: tzeferacos2015flash
+  collection: publications
+  id: tzeferacos2015flash
+  journal:
+    name: High Energy Density Physics
+    pages: 24--31
+    volume: '17'
+  title: FLASH MHD simulations of experiments that study shock-generated magnetic
+    fields
+  type: article
+  year: '2015'
+- author:
+  - name: Graziani, Carlo
+  - name: Tzeferacos, Petros
+  - name: Lee, Dongwook
+  - name: Lamb, Donald Q
+  - name: Weide, Klaus
+  - name: Fatenejad, Milad
+  - name: Miller, Joshua
+  citekey: graziani2015biermann
+  collection: publications
+  id: graziani2015biermann
+  journal:
+    name: The Astrophysical Journal
+    number: '1'
+    pages: '43'
+    volume: '802'
+  title: The biermann catastrophe in numerical magnetohydrodynamics
+  type: article
+  year: '2015'
+- author:
+  - name: Meinecke, Jena
+  - name: Tzeferacos, Petros
+  - name: Bell, Anthony
+  - name: Bingham, Robert
+  - name: Clarke, Robert
+  - name: Churazov, Eugene
+  - name: Crowston, Robert
+  - name: Doyle, Hugo
+  - name: Drake, R Paul
+  - name: Heathcote, Robert
+  - name: 'others, '
+  citekey: meinecke2015developed
+  collection: publications
+  id: meinecke2015developed
+  journal:
+    name: Proceedings of the National Academy of Sciences
+    number: '27'
+    pages: 8211--8215
+    volume: '112'
+  title: Developed turbulence and nonlinear amplification of magnetic fields in laboratory
+    and astrophysical plasmas
+  type: article
+  year: '2015'
+- author:
+  - name: Lee, Dongwook
+  - name: Faller, Hugues
+  - name: Reyes, Adam
+  citekey: lee2017piecewise
+  collection: publications
+  id: lee2017piecewise
+  journal:
+    name: Journal of Computational Physics
+    pages: 230--257
+    volume: '341'
+  title: The piecewise cubic method (PCM) for computational fluid dynamics
+  type: article
+  year: '2017'
+- author:
+  - name: Manek, Bhishek
+  - name: Brummell, Nicholas
+  - name: Lee, Dongwook
+  citekey: manek2018rise
+  collection: publications
+  id: manek2018rise
+  journal:
+    name: The Astrophysical Journal Letters
+    number: '2'
+    pages: L27
+    volume: '859'
+  title: 'The Rise of a Magnetic Flux Tube in a Background Field: Solar Helicity Selection
+    Rules'
+  type: article
+  year: '2018'
