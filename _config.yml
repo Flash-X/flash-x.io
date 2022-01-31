@@ -22,8 +22,8 @@ navbar-links:
      - Source: "pages/source-code"
      - Documentation: "pages/documentation" 
      - Contribute: "pages/contribute"
-  The Council:
-     - Information: "pages/council"
+  The Organization:
+     - Council: "pages/council"
      - Members: "pages/members"
   Research:
      - Exastar: "https://www.exascaleproject.org/research-project/exastar/"
