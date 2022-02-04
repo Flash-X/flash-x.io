@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Flash-X
-subtitle: A Multiphysics Scientific Software 
+subtitle: A Multiphysics Scientific Software System
 ---
 Flash-X is a highly composable multiphysics software system that can be used to simulate physical phenomena in several scientific domains. It is derived from FLASH, which has been a community code for several communities over the last 20 years. The Flash-X architecture has been redesigned to be compatible with increasingly heterogeneous hardware platforms. A part of the redesign is a utilizing a newly designed performance portability layer that is language agnostic. 
 
