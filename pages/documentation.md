@@ -6,8 +6,8 @@ subtitle:
 
 # [User's guide](https://flash-x.github.io/Flash-X-docs/#)
 
-# API
-Will be coming soon
+
+# [API](https://flash-x.github.io/Flash-X-docs/doxygen/#)
 
 # Inheritance 
 A child of an included components inherits all
