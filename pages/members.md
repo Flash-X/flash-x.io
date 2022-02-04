@@ -10,7 +10,7 @@ architect and overall lead for code development
 
 [Dongwook Lee](https://users.soe.ucsc.edu/~dongwook/): Numerics
 
-[Paul Ricker](https://astro.illinois.edu/directory/profile/pmricker): Cosmology
+[Paul Ricker](https://astro.illinois.edu/directory/profile/pmricker): Cosmology and Astrophysics
 
 [Bronson Messer](https://www.olcf.ornl.gov/directory/staff-member/bronson-messer/):
 Astrophysics 
