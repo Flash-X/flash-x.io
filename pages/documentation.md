@@ -7,7 +7,7 @@ subtitle:
 # [User's guide](https://flash-x.github.io/Flash-X-docs/#)
 
 
-# [API](https://flash-x.github.io/Flash-X-API/#)
+# [API](../../api/index.html)
 
 # Inheritance 
 A child of an included components inherits all
