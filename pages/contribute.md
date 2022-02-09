@@ -13,7 +13,7 @@ pull request:
 - Create a fork
 - Make your changes
 - Create a PR to the **staged** branch whenever you wish.
-  Give your PR a title that begins with "DRAFT:".
+  Give your PR a title that begins with the word "DRAFT".
   This will allow any discussion about the pull
   request to be conducted on github.
 - When you are ready for the pull request to be accepted, merge from main
