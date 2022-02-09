@@ -6,8 +6,8 @@ subtitle: For Code Governance and Sustainment
 
 # Organization
 
-Flash-x code and related repositories are hosted on github at
-[Flash-X](https://github.com/Flash-X)
+Flash-X code and related repositories are hosted on github at
+[Flash-X](https://github.com/Flash-X).
 
 A council has been formed to oversee the development and sustainment
 of the code. 
