@@ -10,7 +10,7 @@ title: Flash-X
 
 # Your name to show in the footer
 author: The Flash-X team
-email: flash-x-users@lists.cels.anl.gov
+email: flash-x@lists.cels.anl.gov
 
 # --- List of links in the navigation bar --- #
 
@@ -25,6 +25,7 @@ navbar-links:
   The Organization:
      - Council: "pages/council"
      - Members: "pages/members"
+     - Users: "https://lists.cels.anl.gov/mailman/listinfo/flash-x-users"
   Research:
      - Exastar: "https://www.exascaleproject.org/research-project/exastar/"
      - Fluid Dynamics: "pages/fluids"
@@ -49,7 +50,7 @@ avatar: "/assets/img/logo.png"
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "flash-x-users@lists.cels.anl.gov"
+#  email: "flash-x@lists.cels.anl.gov"
   github: Flash-X
 #  medium: yourname
 #  reddit: yourname
