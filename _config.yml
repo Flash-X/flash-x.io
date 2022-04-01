@@ -25,12 +25,11 @@ navbar-links:
   The Organization:
      - Council: "pages/council"
      - Members: "pages/members"
+     - Contact: "pages/contact"
   Research:
      - Exastar: "https://www.exascaleproject.org/research-project/exastar/"
      - Fluid Dynamics: "pages/fluids"
      - Publications: "pages/publications"
-  Contact:
-     - Mailing List: "https://lists.cels.anl.gov/mailman/listinfo/flash-x-users"
 
 # --- Logo --- #
 
