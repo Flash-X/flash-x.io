@@ -27,7 +27,7 @@ navbar-links:
      - Members: "pages/members"
      - Contact: "pages/contact"
   Research:
-     - Exastar: "https://www.exascaleproject.org/research-project/exastar/"
+     - Exastar: "https://sites.google.com/lbl.gov/exastar"
      - Fluid Dynamics: "pages/fluids"
      - Publications: "pages/publications"
 
