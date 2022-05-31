@@ -24,3 +24,12 @@ h2 {text-align: center;}
   <img src="{{site.baseurl | prepend: site.url}}/assets/img/flow_boiling.gif" style="width:100%">
  </div>
 </div>
+
+<br>
+
+<h2>Counter Flow</h2>
+<div class="custom-row">
+ <div class="custom-movies">
+  <img src="{{site.baseurl | prepend: site.url}}/assets/img/counter_flow.gif" style="width:100%">
+ </div>
+</div>
