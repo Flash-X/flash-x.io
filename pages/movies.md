@@ -3,7 +3,7 @@ layout: page
 title: Animations
 subtitle: 
 
-<h2>Exastar</h2>
+<h2>Core collapse supernova</h2>
 
 <div class="custom-row">
  <div class="custom-rnd">
