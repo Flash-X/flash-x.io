@@ -1,8 +1,7 @@
 ---
 layout: page
-title: Research & Development
-subtitle: Some Animations
----
+title: Animations
+subtitle: 
 
 <h2>Exastar</h2>
 
