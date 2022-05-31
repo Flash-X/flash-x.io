@@ -2,6 +2,7 @@
 layout: page
 title: Animations
 subtitle: 
+---
 
 <h2>Core collapse supernova</h2>
 
