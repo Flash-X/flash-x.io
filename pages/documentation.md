@@ -9,24 +9,6 @@ subtitle:
 
 # [API](../../api/index.html)
 
-# Inheritance 
-A child of an included components inherits all
-functions from the parent, except those for which it has its own
-implementation. 
-
-The implementation in the lowest level offspring replaces
-all implementations that came before.
-
-The Config files arbitrate on multiple implementations
-existing at peer level by specifying ``DEFAULT''
-
-An explicit ``include'' for a particular path in a Config file
-causes all function implemented in lowest level directory in the path
-to be selected.
-
-An implementation in the problem specific directory of the Simulation
-unit overrides all implementations elsewhere in the source tree. 
-
 
 # Naming Conventions
 
