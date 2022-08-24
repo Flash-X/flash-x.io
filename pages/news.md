@@ -3,6 +3,10 @@ layout: page
 title: Flash-X News
 subtitle: 
 ---
+# R&D 100 award 
+Flash-X is a winner of the R&D 100s award for 2022.
+
+https://www.rdworldonline.com/rd-100-2022-winner/flash-x-a-multiphysics-simulation-software/
 
 # Code Release 2/1/2022
 Argonne National Laboratory and the Flash-X Council are pleased to announce the availability of Flash-X, a new, 
