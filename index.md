@@ -7,7 +7,7 @@ Flash-X is a highly composable multiphysics software system that can be used to 
 
 Flash-X is released under the open source Apache 2.0 license. 
 
-**Flash-X is a winner of the R&D 100 awards for 2020** 
+**Flash-X is an R&D 100 award winner for 2022** 
 
 
 <h2>Simulations using Flash-X</h2>
