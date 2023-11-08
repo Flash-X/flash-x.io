@@ -1,5 +1,3 @@
-#!/usr/bin/python3
-
 """
 A simple script to convert a single input bib-file to BibJSON output that is send to stdout.
 """

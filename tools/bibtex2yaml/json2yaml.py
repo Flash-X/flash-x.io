@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 # convert json to yaml
 # http://pyyaml.org/wiki/PyYAMLDocumentation
 # python3 json2yaml.py < ~/code/manpow/moneybug/mbuploader/support/offices.json
