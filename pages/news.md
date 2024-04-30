@@ -3,6 +3,9 @@ layout: page
 title: Flash-X News
 subtitle: 
 ---
+# Tutorial and Hackathon
+We will be holding a tutorial and hackathon during the week of July 8/2024 to help users transition Flash-X from FLASH4. More information will be available shortly in the Events space of the website.
+
 # R&D 100 award 
 Flash-X is a winner of the R&D 100s award for 2022.
 
