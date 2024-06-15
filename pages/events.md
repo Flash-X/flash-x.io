@@ -36,3 +36,10 @@ https://uchicago.zoom.us/j/98010818587?pwd=NlUG0J6LbzvrvGP0PhFaPzIn3EZNdS.1
 The source code is hosted at https://github.com/Flash-X/Flash-X
 
 If you do not already have access please email flash-x@lists.cels.anl.gov with your github username to get access.
+
+Accommodation: There are two hotels in Hyde Park 
+
+[Sophie](https://preferredhotels.com/hotels/united-states/sophy-hyde-park?gad_source=1&gclid=Cj0KCQjw97SzBhDaARIsAFHXUWCHGP-5H5_n-VIFMgFPmUqSqtMVXc8nkXnBXUzaFpln4r0pbHVKILwaAiBCEALw_wcB&gclsrc=aw.ds) and 
+[Hyatt Place](https://www.reservationcounter.com/hotels/show/6124aea/hyatt-place-hyde-park/?cid=sem::TPRC::AW::Reservation_Counter_US_Midwest_Illinois::US_Illinois_Chicago_Hyatt_Place_Chicago-South/University_Medical_Center_did-6124aea::hyatt%20place%20hyde%20park::e&creative=612107803372&device=c&AdPos=&utm_source=google&utm_medium=cpc&utm_term=hyatt%20place%20hyde%20park&utm_campaign=Reservation_Counter_US_Midwest_Illinois&iv_=__iv_p_1_a_981229808_g_82451689851_w_kwd-298445860988_h_9021720_ii__d_c_v__n_g_c_612107803372_k_hyatt%20place%20hyde%20park_m_e_l__t__e__r__vi__&gad_source=1&gclid=Cj0KCQjw97SzBhDaARIsAFHXUWD7FaLQ7uwrtZ2Q270DYbHvNo8AsTnfr5hx-z9EQzd4CQvEyJbN_8waAsi_EALw_wcB)
+
+And many more near McCormick Place and downtown. Hyatt place is closer to Metra Stop with access to downtown, and Sophie is closer to the campus. Both have shuttles that do rounds of the campus.
