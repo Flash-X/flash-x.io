@@ -9,8 +9,8 @@ subtitle:
 To be hosted in the [Department of Computer Science](https://cs.uchicago.edu/)
 at the [University of Chicago](https://www.uchicago.edu/) 
 
-## Address
-John Crerar Library Building
+## Location
+John Crerar Library Building - Room JCL 390
 
 5730 South Ellis Avenue
 Chicago IL 60637
