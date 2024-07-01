@@ -21,6 +21,22 @@ https://visit.uchicago.edu/
 ## Agenda
 July 9 -- Online and in person Tutorial
 
+Tentative Plan for July 9
+All times are US Central
+9:00-10:00   -- How Flash-X is different from FLASH 
+10:00-10:30  -- Example of convering FLASH code to Flash-X code
+10:30-10:45  -- Break
+10:45-11:30  -- New CFD capabilities in Flash-X
+11:30-12:00  -- Tools for testing and running computational experiments
+12:00-1:00   -- Lunch
+1:00-2:00    -- Performance portability overview and using Macros
+2:00-3:00    -- CG-Kit
+3:00-3:30    -- Break
+3:30-4:15    -- Mihoja and changes to Flash-X to use it
+4:15-5:00    -- Code generation and putting it all together
+5:00-5:30    -- Planning for the hackathon 
+
+
 July 10-11 Hackathon
 
 ## Detailed agenda for July 9
