@@ -21,8 +21,10 @@ https://visit.uchicago.edu/
 ## Agenda
 July 9 -- Online and in person Tutorial
 
-Tentative Plan for July 9
+### Tentative Plan for July 9 
+
 All times are US Central
+
 9:00-10:00   -- How Flash-X is different from FLASH 
 
 10:00-10:30  -- Example of convering FLASH code to Flash-X code
@@ -50,8 +52,6 @@ All times are US Central
 
 July 10-11 Hackathon
 
-## Detailed agenda for July 9
-Soon to come
  
 ## Zoom link for July 9
 
