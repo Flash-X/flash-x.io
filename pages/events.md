@@ -71,6 +71,6 @@ Accommodation: There are two hotels in Hyde Park
 
 And many more near McCormick Place and downtown. Hyatt place is closer to Metra Stop with access to downtown, and Sophie is closer to the campus. Both have shuttles that do rounds of the campus.
 
-## Presentation Material:
+## Presentation Materials:
 
 For FLASH to Flash-X code change examples, see for now [this Github location](https://github.com/Flash-X/Flash-X/tree/hackathon2024/docs/TutorialJul2024).
