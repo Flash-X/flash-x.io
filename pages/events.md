@@ -43,7 +43,7 @@ All times are US Central
 
 3:00-3:30    -- Break
 
-3:30-4:15    -- Mihoja and changes to Flash-X to use it
+3:30-4:15    -- Milhoja and changes to Flash-X to use it
 
 4:15-5:00    -- Code generation and putting it all together
 
