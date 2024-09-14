@@ -19,12 +19,22 @@
 
 .custom-free-surface {
   margin: 0 auto;
-  width: 62%;
+  width: 55%;
 }
 
 .custom-movies {
   margin: 0 auto;
   width: 80%;
+}
+
+.custom-crossflow {
+  margin: 0 auto;
+  width: 100%; /* Enlarge width by 120% */
+}
+
+.custom-supernova {
+  margin: 0 auto;
+  width: 60%;
 }
 
 /* Clearfix (clear floats) */
@@ -48,6 +58,13 @@
     width: 100%;
   }
 
+  .custom-crossflow {
+    width: 100%;
+  }
+
+  .custom-supernova {
+    width: 100%;
+  }
 }
 
 </style>

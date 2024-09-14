@@ -15,22 +15,13 @@ email: flash-x@lists.cels.anl.gov
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  News and Events:
-     - News: "pages/news"
-     - Events: "pages/events"
-  The Code:
-     - Source: "pages/source-code"
-     - Documentation: "pages/documentation" 
-     - Contribute: "pages/contribute"
-  The Organization:
-     - Council: "pages/council"
-     - Members: "pages/members"
-     - Contact: "pages/contact"
-  Research:
-     - Exastar: "https://sites.google.com/lbl.gov/exastar"
-     - Fluid Dynamics: "pages/fluids"
-     - Publications: "pages/publications"
-     - Movies: "pages/movies"
+  News: "pages/news"
+  Events: "pages/events"
+  The Code: "pages/source"
+  Council: "pages/council"
+  Exastar: "https://sites.google.com/lbl.gov/exastar"
+  Publications: "pages/publications"
+  Gallery: "pages/gallery"
 
 # --- Logo --- #
 
@@ -98,7 +89,7 @@ feed_show_excerpt: true
 feed_show_tags: true
 
 # Add a search button to the navbar
-post_search: true
+post_search: false
 
 # The keywords to associate with your website, for SEO purposes
 #keywords: "my,list,of,keywords"
