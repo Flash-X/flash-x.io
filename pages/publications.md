@@ -8,8 +8,8 @@ title: Publications
   <li>
    <div>
    <p>
-    {{pub.title}}; {% for author in pub.author %}; {{author.name}}{% endfor %}; {{pub.year}}; {{pub.journal.name}}
-   </p>
+    {% if pub.url %}<a href="{{pub.url}}">{% endif %}{{pub.title}}{% if pub.url %}</a>{% endif %}—{% for author in pub.author %}{% if forloop.first == false %}; {% endif %}{{author.name}}{% endfor %}—{% if pub.journal.name %}{{pub.journal.name}}, {% endif %}{{pub.year}}
+  </p>
    </div>
   </li>
  {% endfor %}

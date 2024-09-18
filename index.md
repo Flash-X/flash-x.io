@@ -10,7 +10,7 @@ platforms. A part of the redesign is a utilizing a newly designed performance po
 
 <p>Flash-X is a recipient of 2022 R&D 100 award, and is released under the open source Apache 2.0 license.</p>
 
-<h2>Simulations using Flash-X</h2>
+# Simulations using Flash-X
 
 <br>
 

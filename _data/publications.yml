@@ -1,5 +1,53 @@
 # Add publications here
 #
+- author: 
+  - name: Dhruv, Akash
+  collection: papers
+  journal:
+    name: "Journal of Computational Physics"
+  title: "A Vortex Damping Outflow Forcing for Multiphase Flows with Sharp Interfacial Jumps"
+  year: "2024"
+  url: https://arxiv.org/abs/2306.10174
+
+- author:
+  - name: Dhruv, Akash
+  - name: Dubey, Anshu
+  collection: papers
+  journal:
+    name: "Computing in Science and Engineering"
+  title: "Managing Software Provenance to Enhance Reproducibility in Computational Research"
+  year: "2023"
+  url: https://arxiv.org/abs/2308.15637
+
+- author:
+  - name: Hassan, Sheikh Md Shakeel
+  - name: Feeney, Arthur
+  - name: Dhruv, Akash
+  - name: Suh, Youngjoon
+  - name: Kim, Jihoon
+  - name: Ryu, Jaiyoung
+  - name: Won, Yoonjin
+  - name: Chandramowlishwaran, Aparna
+  collection: papers
+  journal:
+    name: "Conference on Neural Information Processing Systems"
+  title: "BubbleML: A Multiphysics Dataset and Benchmarks for Machine Learning"
+  year: "2023"
+  url: https://arxiv.org/abs/2307.14623
+
+- author:
+  - name: Dhruv, Akash
+  - name: Jain, Rajeev
+  - name: O'Neal, Jared
+  - name: Weide, Klaus
+  - name: Dubey, Anshu
+  collection: papers
+  journal:
+    name: "World Congress in Computer Science, Computer Engineering, & Applied Computing (CSCE'23)"
+  title: "Framework and Methodology for Verification of a Complex Scientific Simulation Software, Flash-X"
+  year: '2023'
+  url: https://arxiv.org/abs/2308.16180
+
 - author:
   - name: Dhruv, Akash
   - name: Balaras, Elias
@@ -12,6 +60,7 @@
   title: 'An Investigation of the Gravity Effects on Pool Boiling Heat Transfer via High-Fidelity Simulations'
   type: article
   year: '2021'
+  url: https://doi.org/10.1016/j.ijheatmasstransfer.2021.121826
 
 - author:
   - name: Dhruv, Akash
@@ -25,6 +74,7 @@
   title: 'A Formulation for High-Fidelity Simulations of Pool Boiling in Low Gravity'
   type: article
   year: '2019'
+  url: https://doi.org/10.1016/j.ijmultiphaseflow.2019.103099
 
 - author:
   - name: Dubey, Anshu
