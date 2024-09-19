@@ -6,8 +6,12 @@ subtitle:
 # Tutorial and Hackathon
 <p>We will be holding a tutorial and hackathon during the week of July 8/2024 to help users transition to Flash-X from FLASH4. More information will be available shortly in the Events space of the website.</p>
 
+<hr>
+
 # R&D 100 award
 <p>Flash-X is a winner of the <a href="https://www.rdworldonline.com/rd-100-2022-winner/flash-x-a-multiphysics-simulation-software/">R&D 100s award for 2022</a></p>
+
+<hr>
 
 # Code Release (2/1/2022)
 <p>Argonne National Laboratory and the Flash-X Council are pleased to announce the availability of Flash-X, a new, 

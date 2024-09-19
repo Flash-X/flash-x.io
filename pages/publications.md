@@ -12,5 +12,6 @@ title: Publications
   </p>
    </div>
   </li>
+  <hr>
  {% endfor %}
 </ol>  

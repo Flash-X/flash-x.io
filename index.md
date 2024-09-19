@@ -10,6 +10,8 @@ platforms. A part of the redesign is a utilizing a newly designed performance po
 
 <p>Flash-X is a recipient of 2022 R&D 100 award, and is released under the open source Apache 2.0 license.</p>
 
+<hr>
+
 # Simulations using Flash-X
 
 <br>
@@ -34,7 +36,9 @@ platforms. A part of the redesign is a utilizing a newly designed performance po
 </div>
 
 <p><center>Flash-X can also simulate incompressible multiphase flows like pool boiling, vital for cooling systems in car engines and microelectronics. The simulation shows that under Earth's gravity, bubbles depart regularly, but in microgravity, reduced buoyant forces prevent bubble departure, affecting cooling efficiency in space.</center></p>
-                                                                  
+
+<hr>
+                                                              
 # Flash-X Code of Conduct
 
 <p>All collaborators are expected to be respectful of one another. Discussions and disagreements should remain 

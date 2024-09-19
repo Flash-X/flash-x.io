@@ -5,20 +5,21 @@ subtitle:
 ---
 
 # Obtaining the Code
-
 The source code is hosted at [https://github.com/Flash-X/Flash-X](https://github.com/Flash-X/Flash-X). 
 It is distributed under Apache 2.0 license. The repository is not public, however, because we are required 
 by our funders to maintain a list of users who obtain the code from the repository. Therefore you must 
 be a GitHub user and become a collaborator of the repository to obtain the code from us. Please email 
 <a href="mailto:flash-x@lists.cels.anl.gov">flash-x@lists.cels.anl.gov</a> with your github ID to get access.
 
-# Documentation
+<hr>
 
+# Documentation
 - [Flash-X User Guide](https://flash-x.github.io/Flash-X-docs/#)
 - [Flash-X API](../../api/index.html)
 
-# Naming Conventions
+<hr>
 
+# Naming Conventions
 - Units: Unit names have their first letter capitalized, for example
   `Grid`, `Eos`, `Hydro` etc.
 
@@ -60,8 +61,9 @@ be a GitHub user and become a collaborator of the repository to obtain the code 
   convention for private function. For example, `gr_myPe` and `gr_procGrid` are variables in the 
   `Grid` unit. Variables local to a function are not constrained to be named in any specific way.
 
-# Contribution Policies
+<hr>
 
+# Contribution Policies
 We encourage code contributions from the community. Contributors with
 read only permission should use the following guidelines to create a
 pull request:

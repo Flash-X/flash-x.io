@@ -21,7 +21,7 @@ h6 {text-align: center;}
 <p><center>A demonstration of liquid jet in crossflow simulation using incompressible multiphase solver capabilities. Animation provided 
 by <a href="https://akashdhruv.github.io">Akash Dhruv</a>.</center></p>
 
-<br>
+<hr>
 
 <h2>Core Collapse Supernova</h2>
 
@@ -33,7 +33,7 @@ by <a href="https://akashdhruv.github.io">Akash Dhruv</a>.</center></p>
 
 <p><center>Animation of the core collapse supernova simulation modelling and collapse and explosion of a star. Animation provided by <a href="https://www.ornl.gov/staff-profile/michael-sandoval">Michael Sandoval</a>.</center></p>
 
-<br>
+<hr>
 
 <h2>Water Entry of Solids</h2>
 
@@ -46,7 +46,7 @@ by <a href="https://akashdhruv.github.io">Akash Dhruv</a>.</center></p>
 <p><center>Water entry of a sphere to demonstrate numerical capability to handle interaction between solid, liquid, and gas. 
 The solid sphere disrupts the free surface and create an air cavity. Animation provided by <a href="https://akashdhruv.github.io">Akash Dhruv</a>.</center></p>
 
-<br>
+<hr>
 
 <h2>Free Surface Dynamics</h2>
 
