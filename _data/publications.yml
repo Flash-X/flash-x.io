@@ -11,6 +11,15 @@
 
 - author:
   - name: Dhruv, Akash
+  collection: papers
+  journal:
+    name:  arXiv
+  title: Composable Design of Multiphase Fluid Dynamics Solvers in Flash-X
+  year: "2023"
+  url: https://doi.org/10.48550/arXiv.2312.11740
+
+- author:
+  - name: Dhruv, Akash
   - name: Dubey, Anshu
   collection: papers
   journal:
