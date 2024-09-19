@@ -11,13 +11,9 @@ by our funders to maintain a list of users who obtain the code from the reposito
 be a GitHub user and become a collaborator of the repository to obtain the code from us. Please email 
 <a href="mailto:flash-x@lists.cels.anl.gov">flash-x@lists.cels.anl.gov</a> with your github ID to get access.
 
-<hr>
-
 # Documentation
 - [Flash-X User Guide](https://flash-x.github.io/Flash-X-docs/#)
 - [Flash-X API](../../api/index.html)
-
-<hr>
 
 # Naming Conventions
 - Units: Unit names have their first letter capitalized, for example
@@ -60,8 +56,6 @@ be a GitHub user and become a collaborator of the repository to obtain the code 
 - Variables: The unit-scope variables, defined in `Unit_data`, begin with `un_`, similar to the 
   convention for private function. For example, `gr_myPe` and `gr_procGrid` are variables in the 
   `Grid` unit. Variables local to a function are not constrained to be named in any specific way.
-
-<hr>
 
 # Contribution Policies
 We encourage code contributions from the community. Contributors with
