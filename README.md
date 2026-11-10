@@ -10,8 +10,9 @@ the project's funders require a maintained list of users. Flash-MX
 ([https://github.com/Flash-MX/Flash-MX](https://github.com/Flash-MX/Flash-MX)),
 a cohesive public member of the Flash-X ecosystem providing the incompressible
 multiphase flow code for AI and machine learning workflows that need public
-availability for provenance, is hosted in its own GitHub organization, with a
-fork maintained at [https://github.com/Flash-X/Flash-MX](https://github.com/Flash-X/Flash-MX).
+availability for provenance, is hosted in its own GitHub organization (so that
+its test suite can be hosted on GitHub), with a fork maintained at
+[https://github.com/Flash-X/Flash-MX](https://github.com/Flash-X/Flash-MX).
 
 # Acknowledgement:
 Flash-X Website was created using **Beautiful Jekyll** (https://beautifuljekyll.com) 

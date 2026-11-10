@@ -24,8 +24,8 @@ code for provenance. The full Flash-X repository remains restricted for the reas
 multiphase flow subset is available without access requests.
 
 Flash-MX is hosted in its own GitHub organization at
-[https://github.com/Flash-MX/Flash-MX](https://github.com/Flash-MX/Flash-MX) for organizational
-reasons; a fork is also maintained in the Flash-X organization at
+[https://github.com/Flash-MX/Flash-MX](https://github.com/Flash-MX/Flash-MX), so that its test
+suite can be hosted on GitHub; a fork is also maintained in the Flash-X organization at
 [https://github.com/Flash-X/Flash-MX](https://github.com/Flash-X/Flash-MX).
 
 # Documentation {#documentation}

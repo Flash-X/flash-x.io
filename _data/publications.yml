@@ -58,6 +58,227 @@
   url: https://arxiv.org/abs/2308.16180
 
 - author:
+  - name: Dubey, Anshu
+  - name: Weide, Klaus
+  - name: O'Neal, Jared
+  - name: Dhruv, Akash
+  - name: Couch, Sean
+  - name: Harris, J. Austin
+  - name: Klosterman, Tom
+  - name: Jain, Rajeev
+  - name: Rudi, Johann
+  - name: Messer, Bronson
+  - name: Pajkos, Michael
+  - name: Carlson, Jared
+  - name: Chu, Ran
+  - name: Wahib, Mohamed
+  - name: Chawdhary, Saurabh
+  - name: Ricker, Paul M.
+  - name: Lee, Dongwook
+  - name: Antypas, Katie
+  - name: Riley, Katherine M.
+  - name: Daley, Christopher
+  - name: Ganapathy, Murali
+  - name: Timmes, Francis X.
+  - name: Townsley, Dean M.
+  - name: Vanella, Marcos
+  - name: Bachan, John
+  - name: Rich, Paul M.
+  - name: Kumar, Shravan
+  - name: Endeve, Eirik
+  - name: Hix, W. Raphael
+  - name: Mezzacappa, Anthony
+  - name: Papatheodore, Thomas
+  collection: papers
+  journal:
+    name: SoftwareX
+    volume: '19'
+    pages: '101168'
+  title: "Flash-X: A multiphysics simulation software instrument"
+  year: '2022'
+  url: https://www.sciencedirect.com/science/article/pii/S2352711022001030
+
+- author:
+  - name: Hassan, Sheikh Md Shakeel
+  - name: Zou, Xianwei
+  - name: Dhruv, Akash
+  - name: Chandramowlishwaran, Aparna
+  collection: papers
+  journal:
+    name: "Advances in Neural Information Processing Systems"
+    volume: '38'
+  title: "Bubbleformer: Forecasting Boiling with Transformers"
+  year: '2025'
+  url: https://doi.org/10.52202/085713-0578
+
+- author:
+  - name: Feeney, Arthur
+  - name: Zou, Xianwei
+  - name: Hassan, Sheikh Md Shakeel
+  - name: "Rachabathuni, Siddhartha"
+  - name: Chandramowlishwaran, Aparna
+  collection: papers
+  journal:
+    name: "Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining"
+  title: "NUCLEUS-MoE: Unified Model of Pool Boiling for Liquid Cooling"
+  year: '2026'
+  url: https://doi.org/10.1145/3770855.3819026
+
+- author:
+  - name: "Endeve, Eirik"
+  - name: "Mewes, Vassilios"
+  - name: "Harris, J. Austin"
+  - name: "Laiu, M. Paul"
+  - name: Chu, Ran
+  collection: papers
+  journal:
+    name: "The Astrophysical Journal Supplement Series"
+  title: "thornado+FLASH-X: A Hybrid Discontinuous Galerkin–Implicit-explicit and Finite-volume Framework for Neutrino-radiation Hydrodynamics in Core-collapse Supernovae"
+  year: '2026'
+  url: https://doi.org/10.3847/1538-4365/ae57ad
+
+- author:
+  - name: Dubey, Anshu
+  - name: Klosterman, Tom
+  collection: papers
+  journal:
+    name: "Parallel Processing and Applied Mathematics (Lecture Notes in Computer Science)"
+  title: "Language Agnostic Approach for Unification of Implementation Variants for Different Computing Devices"
+  year: '2023'
+  url: https://doi.org/10.1007/978-3-031-30442-2_21
+
+- author:
+  - name: Domke, Jens
+  - name: Wahib, Mohamed
+  - name: Dubey, Anshu
+  - name: "Ben-Nun, Tal"
+  - name: "Draeger, Erik W."
+  collection: papers
+  journal:
+    name: "Computing in Science & Engineering"
+  title: "A Unifying Framework to Enable Artificial Intelligence in High-Performance Computing Workflows"
+  year: '2025'
+  url: https://doi.org/10.1109/mcse.2025.3543940
+
+- author:
+  - name: Lee, Youngjun
+  - name: Dubey, Anshu
+  - name: "Hückelheim, Jan"
+  collection: papers
+  journal:
+    name: arXiv
+  title: "Developing a Numerical Algorithm with CIVL Model Checking in the Loop"
+  year: '2026'
+  url: https://arxiv.org/abs/2609.31964
+
+- author:
+  - name: "Neopane, Sudarshan"
+  - name: "Sandoval, Michael A."
+  - name: "Hix, W. Raphael"
+  - name: "Harris, J. Austin"
+  - name: "Messer, O. E. Bronson"
+  - name: "Lentz, Eric J."
+  collection: papers
+  journal:
+    name: "The Astrophysical Journal"
+  title: "Simulation to a Newborn Supernova Remnant from a Low-mass Iron Core Star"
+  year: '2026'
+  url: https://doi.org/10.3847/1538-4357/ae8a44
+
+
+- author:
+  - name: Jain, Rajeev
+  - name: Tang, Houjun
+  - name: Dhruv, Akash
+  - name: Harris, J. Austin
+  - name: Byna, Suren
+  collection: papers
+  journal:
+    name: "2022 IEEE/ACM International Parallel Data Systems Workshop (PDSW)"
+  title: "Accelerating Flash-X Simulations with Asynchronous I/O"
+  year: '2022'
+  url: https://doi.org/10.1109/pdsw56643.2022.00008
+
+- author:
+  - name: Dhruv, Akash
+  collection: papers
+  journal:
+    name: "Journal of Open Source Software"
+    volume: '8'
+    number: '83'
+    pages: '5649'
+  title: "BoxKit: A Python library to manage analysis of block-structured simulation datasets"
+  year: '2023'
+  url: https://doi.org/10.21105/joss.05649
+
+- author:
+  - name: Dubey, Anshu
+  - name: Harris, J. Austin
+  - name: Messer, Bronson
+  - name: "Fromm, Steven A."
+  - name: "Mewes, Vassilios"
+  - name: Weide, Klaus
+  - name: Lee, Youngjun
+  collection: papers
+  journal:
+    name: "Proceedings of the International Astronomical Union"
+  title: "Exascale Computation of Core-collapse Supernovae with Flash-X"
+  year: '2024'
+  url: https://doi.org/10.1017/s1743921325000237
+
+- author:
+  - name: Jain, Rajeev
+  - name: Tang, Houjun
+  - name: Dhruv, Akash
+  - name: Byna, Suren
+  collection: papers
+  journal:
+    name: "SC24-W: Workshops of the International Conference for High Performance Computing, Networking, Storage and Analysis"
+  title: "Enabling Data Reduction for Flash-X Simulations"
+  year: '2024'
+  url: https://doi.org/10.1109/scw63240.2024.00043
+
+- author:
+  - name: Rudi, Johann
+  - name: Lee, Youngjun
+  - name: "Chadha, Aidan H."
+  - name: Wahib, Mohamed
+  - name: Weide, Klaus
+  - name: "O'Neal, Jared P."
+  - name: Dubey, Anshu
+  collection: papers
+  journal:
+    name: "Future Generation Computer Systems"
+  title: "CG-Kit: Code Generation Toolkit for performant and maintainable variants of source code applied to Flash-X hydrodynamics simulations"
+  year: '2025'
+  url: https://doi.org/10.1016/j.future.2024.107511
+
+- author:
+  - name: Dhruv, Akash
+  - name: Dubey, Anshu
+  collection: papers
+  journal:
+    name: "Proceedings of the Platform for Advanced Scientific Computing Conference (PASC '25)"
+  title: "Leveraging Large Language Models for Code Translation and Software Development in Scientific Computing"
+  year: '2025'
+  url: https://doi.org/10.1145/3732775.3733572
+
+- author:
+  - name: Lee, Youngjun
+  - name: Weide, Klaus
+  - name: "Kwiecinski, Wesley"
+  - name: "O'Neal, Jared"
+  - name: Rudi, Johann
+  - name: Dubey, Anshu
+  collection: papers
+  journal:
+    name: "The International Journal of High Performance Computing Applications"
+  title: "ORCHA: A performance portability system for extreme heterogeneity"
+  year: '2026'
+  url: https://doi.org/10.1177/10943420261465929
+
+
+- author:
   - name: Dhruv, Akash
   - name: Balaras, Elias
   - name: Riaz, Amir
