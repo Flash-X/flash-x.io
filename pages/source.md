@@ -13,6 +13,21 @@ by our funders to maintain a list of users who obtain the code from the reposito
 be a GitHub user and become a collaborator of the repository to obtain the code from us. Please email 
 <a href="mailto:flash-x@lists.cels.anl.gov">flash-x@lists.cels.anl.gov</a> with your github ID to get access.
 
+# Flash-MX: Public Multiphase Flow Code
+---
+
+Flash-MX is a cohesive part of the Flash-X ecosystem: a public, incompressible multiphase flow code
+(including boiling and heat transfer, immersed boundaries, and solid mechanics) derived from Flash-X
+and built on the same composable architecture. It is released publicly, under the Apache 2.0 license,
+so that AI and machine learning workflows that depend on it can cite and verify a publicly available
+code for provenance. The full Flash-X repository remains restricted for the reasons above, but the
+multiphase flow subset is available without access requests.
+
+Flash-MX is hosted in its own GitHub organization at
+[https://github.com/Flash-MX/Flash-MX](https://github.com/Flash-MX/Flash-MX) for organizational
+reasons; a fork is also maintained in the Flash-X organization at
+[https://github.com/Flash-X/Flash-MX](https://github.com/Flash-X/Flash-MX).
+
 # Documentation {#documentation}
 ---
 

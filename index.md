@@ -34,6 +34,9 @@ platforms. A part of the redesign is a utilizing a newly designed performance po
 </div>
 
 <p><center>Flash-X can also simulate incompressible multiphase flows like pool boiling, vital for cooling systems in car engines and microelectronics. The simulation shows that under Earth's gravity, bubbles depart regularly, but in microgravity, reduced buoyant forces prevent bubble departure, affecting cooling efficiency in space.</center></p>
+
+<p><center>These incompressible multiphase flow capabilities are available publicly as
+<a href="https://github.com/Flash-MX/Flash-MX">Flash-MX</a>, a cohesive member of the Flash-X ecosystem hosted in its own GitHub organization, so that AI and machine learning workflows can rely on a publicly available code for provenance.</center></p>
                                                              
 # Flash-X Code of Conduct
 
